@@ -1,0 +1,15 @@
+E:\Code\SalaryConverting\SalaryConverting\bin\Debug\net6.0\SalaryConverting.exe
+E:\Code\SalaryConverting\SalaryConverting\bin\Debug\net6.0\SalaryConverting.deps.json
+E:\Code\SalaryConverting\SalaryConverting\bin\Debug\net6.0\SalaryConverting.runtimeconfig.json
+E:\Code\SalaryConverting\SalaryConverting\bin\Debug\net6.0\SalaryConverting.dll
+E:\Code\SalaryConverting\SalaryConverting\bin\Debug\net6.0\SalaryConverting.pdb
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.csproj.AssemblyReference.cache
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.AssemblyInfoInputs.cache
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.AssemblyInfo.cs
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.csproj.CoreCompileInputs.cache
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.dll
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\refint\SalaryConverting.dll
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.pdb
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\SalaryConverting.genruntimeconfig.cache
+E:\Code\SalaryConverting\SalaryConverting\obj\Debug\net6.0\ref\SalaryConverting.dll
